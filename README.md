@@ -21,8 +21,11 @@ File name	Purpose
 logic_gates.v	Logic-gate RTL
 logic_gates_tb.v	All input combinations and VCD generation
  # Verilog  Program
+ <img width="1907" height="1076" alt="Screenshot 2026-11-24 155552" src="https://github.com/user-attachments/assets/44a65ec2-48a4-4934-b426-fe246d4ad224" />
+
 
 # **Test Bench Program**
+<img width="1915" height="1065" alt="Screenshot 2026-11-24 160024" src="https://github.com/user-attachments/assets/2acc0642-508b-4c72-85c8-aef5be60f7f1" />
 
 
 
@@ -79,6 +82,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 Output
 # OUTPUT
 
+<img width="1917" height="1078" alt="Screenshot 2026-11-24 160500" src="https://github.com/user-attachments/assets/fe0b0718-cd57-479c-a7ab-0e79220fce3c" />
 
  
 # Viva-Voce Questions
